@@ -1,4 +1,7 @@
 # CS6660-Assignment2
+## Install py2neo 
+command:  pip install py2neo
+
 ## Installing Jupyter Notebook
 **Contents**
 
