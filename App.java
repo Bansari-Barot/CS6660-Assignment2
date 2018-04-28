@@ -25,7 +25,6 @@ public class App
     private static enum NodeLabels implements Label {
     	WORKSPACE, USER, CHANNEL, POST
     }
-   //static Label label_user ;
     static GraphDatabaseService graphDb;
     private static final File DB_PATH = new File("C:\\Users\\USER\\.Neo4jDesktop\\neo4jDatabases\\database-cdba74d7-d890-48b5-9b6b-80eab57308d1\\installation-3.3.5\\data\\databases\\graph.db");
     public static void main( String[] args )
