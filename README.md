@@ -1,5 +1,5 @@
 # CS6660-Assignment2
-##Installing Jupyter Notebook
+## Installing Jupyter Notebook
 **Contents**
 
 Prerequisite: Python
